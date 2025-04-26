@@ -111,7 +111,8 @@ npm start
 - [x] Menu de FREE FIRE
 - [x] Juego RPG
 - [x] Descarga de música y video de YT
-- [x] Descarga de música y video de YT ] Descarga de música y video de TIKTOK
+- [x] Descarga de música y video de YT
+- [x]  Descarga de música y video de TIKTOK
 - [x] Otros
 - [ ] SubBot (Jadibot)
 
