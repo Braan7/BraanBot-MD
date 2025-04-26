@@ -100,7 +100,7 @@ npm start
 
 > Bot en creación pronto se agregaran más cosas 
 
-> ESTOS SON ALGUNAS COSAS QUE TIENE.
+> ESTAS SON SUS FUNCIONES QUE TIENE ACTUALMENTE.
 - [x] Interacción con voz y texto
 - [x] Configuración de grupo
 - [x] antidelete, antilink, antispam, etc
