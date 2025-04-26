@@ -100,6 +100,7 @@ npm start
 
 > Bot en creación pronto se agregaran más cosas 
 
+> ESTOS SON ALGUNAS COSAS QUE TIENE.
 - [x] Interacción con voz y texto
 - [x] Configuración de grupo
 - [x] antidelete, antilink, antispam, etc
@@ -107,10 +108,12 @@ npm start
 - [x] Juegos, tictactoe, mate, etc
 - [x] Chatbot (simsimi)
 - [x] Crear sticker de image/video/gif/url
-- [x] SubBot (Jadibot)
-- [ ] Juego RPG
+- [x] Menu de FREE FIRE
+- [x] Juego RPG
 - [x] Descarga de música y video de YT
-- [ ] Otros
+- [x] Descarga de música y video de YT ] Descarga de música y video de TIKTOK
+- [x] Otros
+- [ ] SubBot (Jadibot)
 
 ---------
 
